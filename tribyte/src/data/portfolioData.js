@@ -107,7 +107,7 @@ export const teamData = [
       {
         id: "p2-1",
         title: "DSA Word Rush",
-        description: "A classic word game that challenges players to form words from a set of letters within a time limit.",
+        description: "In collaboration with Aaron Castro, this is a classic word game that challenges players to form words from a set of letters within a time limit.",
         tags: ["Java", "C#", "Object-Oriented Programming"],
         image: "src/assets/images/DSA.png",
         githubUrl: "https://github.com/aesy-ru/Game",
