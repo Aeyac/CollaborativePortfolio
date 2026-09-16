@@ -1,10 +1,10 @@
 export const teamData = [
   {
-    id: "member-1",
+    id: 1,
     name: "Aaron Castro",
     role: "Full-Stack Web Developer",
     tagline: "Bridging complex backend with lightning-fast React SPAs.",
-    avatar: "/src/assets/images/aaron.jpg",
+    avatar: "/src/assets/images/aaron.png",
     bio: "Aspiring Full-Stack Web Developer passionate about building modern Full-Stack applications, AI-Driven Development, and System Architecture.",
     education: {
       degree: "B.S. in Information Technology",
@@ -66,7 +66,7 @@ export const teamData = [
 
 //AERON
   {
-    id: "member-2",
+    id: 2,
     name: "Aeron C. Romano",
     role: "Front-End Web Developer",
     tagline: "Bringing imagination to life through interactive web experiences.",
@@ -124,7 +124,7 @@ export const teamData = [
   },
 
   {
-    id: "member-3",
+    id: 3,
     name: "Member Name Placeholder",
     role: "Member Role Placeholder",
     tagline: "Member Tagline Placeholder",
