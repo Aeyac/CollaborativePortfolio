@@ -82,7 +82,6 @@ export const teamData = [
       contributions: "5",
     },
     skills: [
-      { name: "Skill Placeholder", category: "Front-End" },
       { name: "Tailwind CSS", category: "Front-End" },
       { name: "JavaScript", category: "Front-End" },
       { name: "React 18", category: "Front-End" },
